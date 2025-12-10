@@ -30,7 +30,7 @@ Atualmente estudando Desenvolvimento de Sistemas e construindo projetos que refl
 ![Armazenamento](https://img.shields.io/badge/SSD-512GB-0FAAFF?style=for-the-badge&logo=databricks&logoColor=white)
 
 ![Sistema Operacional](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Monitor LG](https://img.shields.io/badge/LG-180Hz_1080p-EC1C24?style=for-the-badge&logo=lg&logoColor=white&logoSize=30)
+![Monitor LG](https://img.shields.io/badge/LG-180Hz_1920x1080-EC1C24?style=for-the-badge&logo=lg&logoColor=white&logoSize=30)
 ![Monitor AOC](https://img.shields.io/badge/AOC-75Hz_1366x768-00A1E0?style=for-the-badge&logo=aoc&logoColor=white)
 
 
