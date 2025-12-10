@@ -6,7 +6,7 @@ Atualmente estudando Desenvolvimento de Sistemas e construindo projetos que refl
 </p>
 
 ## 🌐 Minhas Redes e Contatos
-[![Email](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcRzCpKvSkWgSZFLCtfHkmdfcvzlsJgZshWhTHPvSbTqXRWlGWqBWwHcjhTPgqlKcKFqBfnvb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcRzCpKvSkWgSZFLCtfHkmdfcvzlsJgZshWhTHPvSbTqXRWlGWqBWwHcjhTPgqlKcKFqBfnvb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.y7k/)
 
 ## 📊 Estatísticas de Desenvolvimento
