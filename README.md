@@ -25,7 +25,7 @@ Atualmente estudando Desenvolvimento de Sistemas e construindo projetos que refl
 
 ## 💻 Infraestrutura do Meu Workspace
 ![Placa de Vídeo](https://img.shields.io/badge/NVIDIA-RTX5060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Processador](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Ryzen 7 5700X](https://img.shields.io/badge/AMD_Ryzen_7-5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![RAM](https://img.shields.io/badge/16GB-DDR4-FF6F00?style=for-the-badge&logo=buffer&logoColor=white)
 ![Armazenamento](https://img.shields.io/badge/SSD-512GB-0FAAFF?style=for-the-badge&logo=databricks&logoColor=white)
 
