@@ -8,6 +8,7 @@ Atualmente estudando Desenvolvimento de Sistemas e construindo projetos que refl
 ## 🌐 Minhas Redes e Contatos
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaualucass1122@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.y7k/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaua-lucas/)
 
 ## 📊 Estatísticas de Desenvolvimento
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lkaua-dev&theme=dark)
